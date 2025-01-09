@@ -90,13 +90,13 @@ I have a method to generate QR code as follows:
 
 **And let's see the results:**
 
-![z6211662815357_648ac442eba3d96edd14f30817cb971f.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/1af564d8-689a-4e5a-9d21-93f772468cf7/41c91b64-7156-4e25-92a5-7c03703418bd/z6211662815357_648ac442eba3d96edd14f30817cb971f.jpg)
+![z6211662810319_83aca326bc80a229a6e562ea6c63f2e7](https://github.com/user-attachments/assets/42960234-04ad-4d00-97e8-ccdbe820ff2c)
 
-![z6211662810319_83aca326bc80a229a6e562ea6c63f2e7.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/1af564d8-689a-4e5a-9d21-93f772468cf7/688126e7-6cf2-4c8e-b536-128b13c0248e/z6211662810319_83aca326bc80a229a6e562ea6c63f2e7.jpg)
+![z6211662815357_648ac442eba3d96edd14f30817cb971f](https://github.com/user-attachments/assets/9d0d1a5b-028e-43f6-96f4-2f785658c49f)
 
 ### **Next step I configure a ScanViewController to scan the QR code to get information:**
 
-[6211680764341.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/1af564d8-689a-4e5a-9d21-93f772468cf7/713dd534-45c0-4fb2-91c2-2c15cc0eb236/6211680764341.mp4)
+https://github.com/user-attachments/assets/be3845ee-7192-4d4c-a430-e245198775f2
 
 ### **When I finished scanning the code, I wrote a method to import information to the machine as follows:**
 
