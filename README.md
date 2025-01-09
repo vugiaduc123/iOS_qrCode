@@ -8,7 +8,7 @@ An image processor that produces an image by manipulating one or more input imag
 
 The following code creates a filter that generates a QR code:
 
-![Screenshot 2025-01-09 at 14.03.29.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/1af564d8-689a-4e5a-9d21-93f772468cf7/fa7021bb-49f3-40c2-89d5-8b15716f2e51/Screenshot_2025-01-09_at_14.03.29.png)
+![Screenshot 2025-01-09 at 14 03 29](https://github.com/user-attachments/assets/225f8c4d-cbfd-49ce-88bb-baed8246e23c)
 
 This method generates a QR code as an image. QR codes are a high-density matrix barcode format defined in the ISO/IEC 18004:2006 standard.
 
