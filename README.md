@@ -2,7 +2,7 @@
 
 **QR Generator is a QR code generator developed by Swift using CIFilter. The goal is to implement the functionality that generates a QR code from the information we want to generate like the functionality implemented by the iOS Device version 16.0 program.**
 
-### Giới thiệu về **CIFilter** trong Swift
+### Introducing CIFilter in Swift
 
 An image processor that produces an image by manipulating one or more input images or by generating new image data.
 
